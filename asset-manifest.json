@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cis453-project2/static/css/main.9d137d69.chunk.css",
+    "main.js": "/cis453-project2/static/js/main.128e3801.chunk.js",
+    "main.js.map": "/cis453-project2/static/js/main.128e3801.chunk.js.map",
+    "runtime-main.js": "/cis453-project2/static/js/runtime-main.330d409d.js",
+    "runtime-main.js.map": "/cis453-project2/static/js/runtime-main.330d409d.js.map",
+    "static/js/2.7ea9214f.chunk.js": "/cis453-project2/static/js/2.7ea9214f.chunk.js",
+    "static/js/2.7ea9214f.chunk.js.map": "/cis453-project2/static/js/2.7ea9214f.chunk.js.map",
+    "index.html": "/cis453-project2/index.html",
+    "static/css/main.9d137d69.chunk.css.map": "/cis453-project2/static/css/main.9d137d69.chunk.css.map",
+    "static/js/2.7ea9214f.chunk.js.LICENSE.txt": "/cis453-project2/static/js/2.7ea9214f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cis453-project2/static/media/oneManga.c4aa7ef5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330d409d.js",
+    "static/js/2.7ea9214f.chunk.js",
+    "static/css/main.9d137d69.chunk.css",
+    "static/js/main.128e3801.chunk.js"
+  ]
+}
